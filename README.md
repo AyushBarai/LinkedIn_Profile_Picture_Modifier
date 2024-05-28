@@ -48,7 +48,9 @@ cd LinkedIn_Profile_Picture_Modifier
 ## File Structure
 
 LinkedIn_Profile_Picture_Modifier
+
 ├── manifest.json
+
 ├── content.js
 
 
