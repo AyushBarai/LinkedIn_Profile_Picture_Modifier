@@ -20,16 +20,16 @@ The LinkedIn Profile Picture Modifier is a Chrome extension designed to change t
 
 1.  Clone the Repository:
 
-***
+``` bash
 git clone https://github.com/AyushBarai/LinkedIn_Profile_Picture_Modifier.git
-***
+```
 
 
 2.  Navigate to the Project Directory:
 
-***
+``` bash
 cd LinkedIn_Profile_Picture_Modifier
-***
+```
 
 
 3.  Open Chrome Extensions Page:
@@ -63,8 +63,8 @@ To change the image used for replacing profile pictures:
 
 1.  Open `content.js`:
 
-javascript
+```javascript
 const newProfilePictureUrl = 'https://path-to-your-image.com/image.png';
-
+```
 
 2.  Replace the URL in `content.js` with the URL of your desired image.
