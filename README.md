@@ -2,7 +2,7 @@
 
 ## Overview
 
-The LinkedIn Profile Picture Modifier is a Chrome extension designed to change the profile pictures of all posts on the LinkedIn homepage to a single image of your choice. This extension demonstrates the ability to interact with a dynamic webpage and manipulate its elements using JavaScript and Chrome Extension APIs.
+The LinkedIn Profile Picture Modifier is a Chrome extension designed to change the profile pictures of all posts on the LinkedIn homepage to a single image. This extension demonstrates the ability to interact with a dynamic webpage and manipulate its elements using JavaScript and Chrome Extension APIs.
 
 ## Features
 
