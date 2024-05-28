@@ -47,7 +47,7 @@ cd LinkedIn_Profile_Picture_Modifier
 
 ## File Structure
 
-LinkedIn_Profile_Picture_Modifier
+LinkedIn_Profile_Picture_Modifier/
 
 ├── manifest.json
 
@@ -64,7 +64,7 @@ To change the image used for replacing profile pictures:
 1.  Open `content.js`:
 
 ```javascript
-const newProfilePictureUrl = 'https://path-to-your-image.com/image.png';
+const newProfilePictureUrl = 'image_URL';
 ```
 
 2.  Replace the URL in `content.js` with the URL of your desired image.
