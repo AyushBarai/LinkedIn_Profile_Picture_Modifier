@@ -20,14 +20,16 @@ The LinkedIn Profile Picture Modifier is a Chrome extension designed to change t
 
 1.  Clone the Repository:
 
-shell
-git clone https://github.com/your-username/linkedin-profile-modifier.git
+***
+git clone https://github.com/AyushBarai/LinkedIn_Profile_Picture_Modifier.git
+***
 
 
 2.  Navigate to the Project Directory:
 
-shell
-cd linkedin-profile-modifier
+***
+cd LinkedIn_Profile_Picture_Modifier
+***
 
 
 3.  Open Chrome Extensions Page:
