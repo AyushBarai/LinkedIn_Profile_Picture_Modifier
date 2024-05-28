@@ -50,7 +50,6 @@ cd LinkedIn_Profile_Picture_Modifier
 LinkedIn_Profile_Picture_Modifier
 ├── manifest.json
 ├── content.js
-└── icon.png (optional)
 
 
 *   `manifest.json`: Defines the extension's metadata and permissions.
